@@ -1,4 +1,4 @@
-A test case that shows how link a shared library.
+A test case that shows how to link a shared library.
 
 The test case has two modules:
 bar(.cmake) and bar_hidden(.cmake).
